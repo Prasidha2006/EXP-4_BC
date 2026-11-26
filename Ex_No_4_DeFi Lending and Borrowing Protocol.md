@@ -74,15 +74,14 @@ contract DeFiLending {
 
 ```
 # Expected Output:
-Users can deposit ETH and earn interest.
 
+<img width="1917" height="1053" alt="image" src="https://github.com/user-attachments/assets/b3674d49-32a4-42d3-82cb-028c6ae4f6e1" />
 
-Users can borrow ETH by providing collateral.
+<img width="1917" height="1057" alt="image" src="https://github.com/user-attachments/assets/a47cd7e4-9277-4a05-9494-10ce5e74037e" />
 
+<img width="1917" height="1053" alt="image" src="https://github.com/user-attachments/assets/51bd936b-b2f9-4443-aacd-9265296bbc7f" />
 
-If collateral < 150% of borrowed amount, liquidators can seize the collateral.
-
-
+<img width="1917" height="1053" alt="image" src="https://github.com/user-attachments/assets/a782f929-c380-4751-ace2-17d85ca1d800" />
 
 # High-Level Overview:
 Teaches key DeFi concepts: lending, borrowing, collateral, liquidation.
